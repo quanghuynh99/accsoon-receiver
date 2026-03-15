@@ -1,0 +1,6 @@
+framework module UIT02UsbSDK {
+  umbrella header "UIT02UsbSDK.h"
+  export *
+
+  module * { export * }
+}
